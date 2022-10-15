@@ -1,1 +1,0 @@
-D:\calculator\calculator\bin\Debug\calculator.exe.config
